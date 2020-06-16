@@ -45,6 +45,7 @@ python2 setup.py -d /media/ssd2/data
 
 To train the model from scratch:
 ```
-python2 scripts/main_ywkim.py
+cd scripts
+python2 main_ywkim.py
 ```
 
